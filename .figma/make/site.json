@@ -1,0 +1,10 @@
+{
+  "description": "Create dynamic landing pages with customized content, images, and logos tailored for healthcare professionals, enhancing online presence and engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
